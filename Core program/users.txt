@@ -1,0 +1,10 @@
+YAZID,Rayane,21
+yazid,hamid,54
+yazid,imene,28
+dcmsl dvs,sdvlsdvml,155
+dvdvd,dvd,14
+fatima,fafa,55
+maria,zaarir,21
+fatima,farah,54
+rayane,yazid,21,Patient
+rayane:azerty
